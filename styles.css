@@ -45,30 +45,3 @@ footer {
 p {
     text-indent: 30px;
 }
-
-/* cabeçalho das páginas de politica de segurança */
-.cabecalho {
-    border: 2px solid black;
-    margin-bottom: 30px;
-}
-
-.cabecalho .col-md-2,
-.cabecalho .col-md-3 {
-    border-right: 1px solid black;
-    padding-top: 10px;
-    align-items: center;
-    justify-content: center;
-}
-
-.col h1, h2 {
-    padding: 10px;
-}
-
-.politica-section {
-    border: 1px solid black;
-}
-
-.titulo {
-    text-align: center;
-    margin-bottom: 20px;
-}
